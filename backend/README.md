@@ -49,7 +49,7 @@ Gostamos e usamos [convencional commits](https://www.conventionalcommits.org/en/
 Utilizamos muito JavaScript, Go e as vezes Python, mas existem pessoas que programam nas mais diversas linguagens dentro do nosso time e muitas não tinham nenhuma proficiência nestas linguagens antes de entrar aqui, portanto escreva utilizando a linguagem que se sentir mais confortável. 
 
 ### 🤔 Dúvidas
-A gente sempre ensina e aprende uns com os outros, então qualquer dúvida mande um e-mail para duvidas-teste@escale.com.br que ficaremos muito felizes em ajudar!
+A gente sempre ensina e aprende uns com os outros, então qualquer dúvida abra uma [issue](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue) aqui no github que ficaremos muito felizes em ajudar!
 
 ### 🗂 Entrega
 Se possível entregue o código em um repositório público, caso contrário mande um arquivo compactado com seu código dentro dele.
